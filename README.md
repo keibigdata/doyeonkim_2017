@@ -20,8 +20,9 @@
 
 ## Data
 1. crawling data
+* Kei_db.xlsx : KEI 연구보고서 데이터 (1993~2016년, 1522건, 제목/목차or초록/날짜/저자/연구분류)
 * Naver_news.xlsx : 네이버 환경뉴스 데이터(2004~2016년, 19만건, 제목/날짜/언론사)
 
 2. 전처리 완료된 data
-* out_Test_kei.xlsx : 한국환경정책·평가연구원(KEI) 연구보고서 1993~2016년, 목차&초록)
-* out_Test_naver.xlsx : 네이버 환경뉴스 (2004~2016년, 제목)
+* kei_content_data.csv : 한국환경정책·평가연구원(KEI) 연구보고서 1993~2016년, 목차&초록)
+* naver_title_data.csv : 네이버 환경뉴스 (2004~2016년, 제목)
