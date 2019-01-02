@@ -29,3 +29,8 @@
 **2. 전처리 완료된 data**
 * kei_content_data.csv : 한국환경정책·평가연구원(KEI) 연구보고서 1993~2016년, 목차&초록)
 * naver_title_data.csv : 네이버 환경뉴스 (2004~2016년, 제목)
+
+
+## Result_Paper
+* 1. Kim, D.Y., & Kang, S.W. (2018). Extracting Environmental Research Trends using LDA. International Journal of Engineering & Technology, 7(2.33), 1222-1228.
+* 2. Kim, D.Y., & Kang, S.W. (2018).  Analysis of Recognition of Climate Changes using Word2Vec, International Journal of Pure and Applied Mathematics, 120(6), 5793-5807.
