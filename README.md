@@ -32,6 +32,6 @@
 
 
 
-## Result_Paper
+## Paper
 * Kim, D.Y., & Kang, S.W. (2018). Extracting Environmental Research Trends using LDA. International Journal of Engineering & Technology, 7(2.33), 1222-1228.
 * Kim, D.Y., & Kang, S.W. (2018).  Analysis of Recognition of Climate Changes using Word2Vec, International Journal of Pure and Applied Mathematics, 120(6), 5793-5807.
